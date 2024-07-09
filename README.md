@@ -22,13 +22,22 @@ r = Risk free interest rate (annual rate as a fraction of 100)
 
 &sigma; = Volatility of the underlying asset (annual rate as a fraction of 100)
 
+**&sigma;** is calculated as: 
+
+**&sigma;** = **&sigma;<sub>m</sub> * &radic;N** 
+
+where 
+
+**&sigma;<sub>m</sub>** = standard deviation of the quantity **ln(P<sub>t</sub>/P<sub>t-1</sub>)** with P<sub>t</sub> being the price of the stock on a date t, taken over **N** days
+
 ## Datasets used
 
 **Reliance**
+Taking **r = 0.07 (7% annual risk free interest rate)** 
 
-**Reliance Dataset 1** : K constant @ 2400, expiry date as 28 dec 2023
+**Reliance Dataset 1** : K constant @ 2400, expiry date as 28 dec 2023, for the year 2023
 
-**Reliance Dataset 2** : K constant @ 2500, expiry date as 28 dec 2023
+**Reliance Dataset 2** : K constant @ 2500, expiry date as 28 dec 2023, for the year 2023
 
-**Reliance Dataset 3** : K constant @ 2600, expiry date as 28 dec 2023
+**Reliance Dataset 3** : K constant @ 2600, expiry date as 28 dec 2023, for the year 2023
 
