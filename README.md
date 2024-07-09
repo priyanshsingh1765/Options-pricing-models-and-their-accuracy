@@ -31,8 +31,10 @@ where
 **&sigma;<sub>m</sub>** = standard deviation of the quantity **ln(P<sub>t</sub>/P<sub>t-1</sub>)** with P<sub>t</sub> being the price of the stock on a date t, taken over **N** days
 
 ## Datasets used
+### All data was acquired from the NSE website
 
-**Reliance**
+**Reliance** Datasets [here](https://www.nseindia.com/get-quotes/derivatives?symbol=RELIANCE)
+
 Taking **r = 0.07 (7% annual risk free interest rate)** 
 
 **Reliance Dataset 1** : K constant @ 2400, expiry date as 28 dec 2023, for the year 2023
