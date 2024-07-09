@@ -42,4 +42,7 @@ Taking **r = 0.07 (7% annual risk free interest rate)**
 **Reliance Dataset 3** : K constant @ 2600, expiry date as 28 dec 2023, for the year 2023
 
 ## Results
-![Dataset 1 result]()
+![Dataset 1 result](dataset_1_result.png)
+![Dataset 2 result](dataset_2_result.png)
+![Dataset 3 result](dataset_3_result.png)
+
