@@ -37,11 +37,21 @@ where
 
 Taking **r = 0.07 (7% annual risk free interest rate)** 
 
+#### CALL OPTIONS
+
 **Reliance Dataset 1** : K constant @ 2400, expiry date as 28 dec 2023, for the year 2023
 
 **Reliance Dataset 2** : K constant @ 2500, expiry date as 28 dec 2023, for the year 2023
 
 **Reliance Dataset 3** : K constant @ 2600, expiry date as 28 dec 2023, for the year 2023
+
+#### PUT OPTIONS
+
+**Reliance Dataset 4** : K constant @ 2400, expiry date as 28 dec 2023, for the year 2023
+
+**Reliance Dataset 5** : K constant @ 2500, expiry date as 28 dec 2023, for the year 2023
+
+**Reliance Dataset 6** : K constant @ 2600, expiry date as 28 dec 2023, for the year 2023
 
 ## Results
 ![Dataset 1 result](dataset_1_result.png)
